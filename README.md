@@ -61,7 +61,7 @@ Users should be able to:
 
 - Twitter - [@Maduakonam Moses](https://www.twitter.com/Maduakonam67451)
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/beeAlmighty)
+- Frontend Mentor - [@Lord Hendrixx](https://www.frontendmentor.io/profile/beeAlmighty)
 
 ## Acknowledgments
 
